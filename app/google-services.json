@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "107139117943",
+    "project_id": "sem3-group-project-1",
+    "storage_bucket": "sem3-group-project-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107139117943:android:43a955e7f30c1b3c2e6772",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107139117943-05kfp1ip5hvs6hlcv79hpjn1punvklm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd7IIcB3SmySEirK7IkbATP8oggo8PcGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107139117943-05kfp1ip5hvs6hlcv79hpjn1punvklm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107139117943:android:50d37c58f07f6cd32e6772",
+        "android_client_info": {
+          "package_name": "com.sarthakmalhotra.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107139117943-05kfp1ip5hvs6hlcv79hpjn1punvklm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd7IIcB3SmySEirK7IkbATP8oggo8PcGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107139117943-05kfp1ip5hvs6hlcv79hpjn1punvklm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
