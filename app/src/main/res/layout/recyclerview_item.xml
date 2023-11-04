@@ -6,13 +6,14 @@
     android:padding="10dp">
 
     <ImageView
+        android:id="@+id/productImage"
         android:layout_width="114dp"
         android:layout_height="114dp"
-        android:id="@+id/productImage"
         android:background="@color/white"
         />
 
     <TextView
+        android:id="@+id/productName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Nike Air Max 90"
@@ -20,20 +21,19 @@
         android:textStyle="bold"
         android:layout_marginLeft="10dp"
         android:layout_toRightOf="@+id/productImage"
-        android:id="@+id/productName"
         android:layout_alignTop="@+id/productImage"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:background="@color/white"/>
 
     <TextView
+        android:id="@+id/productPrice"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="$299.99"
         android:textSize="14sp"
         android:layout_marginLeft="10dp"
         android:layout_toRightOf="@+id/productImage"
-        android:id="@+id/productPrice"
         android:layout_below="@+id/productName"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
@@ -41,12 +41,12 @@
         android:background="@color/white"/>
 
     <Button
+        android:id="@+id/addToCart"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Add to Cart"
         android:layout_marginLeft="10dp"
         android:layout_toRightOf="@+id/productImage"
-        android:id="@+id/addToCart"
         android:layout_below="@+id/productPrice"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
