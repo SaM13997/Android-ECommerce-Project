@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Chat App"
+rootProject.name = "ECommerce Project"
 include(":app")

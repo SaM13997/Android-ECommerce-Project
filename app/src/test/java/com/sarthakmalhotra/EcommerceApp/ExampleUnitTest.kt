@@ -1,4 +1,4 @@
-package com.sarthakmalhotra.chatapp
+package com.sarthakmalhotra.EcommerceApp
 
 import org.junit.Test
 
